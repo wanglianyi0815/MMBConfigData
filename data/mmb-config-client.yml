@@ -1,5 +1,2 @@
-lucky-word: 11111
-
-wordConfig:
-  preamble: The lucky word is
-  luckyWord: mmb444
+---
+lucky-word: mmb
