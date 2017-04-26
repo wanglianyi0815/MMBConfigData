@@ -1,0 +1,12 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: mmb-eureka-server
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    #禁止Eureka注册自己

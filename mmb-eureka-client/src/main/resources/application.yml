@@ -1,0 +1,7 @@
+server:
+  port: ${PORT:${SERVER_PORT:0}}
+  #  这个的意思是随机指定个没使用的端口
+
+#words: 你呀,我呀,他呀
+words: here,there,other
+
